@@ -1,0 +1,175 @@
+- name: ELL
+  synonyms:
+  - c19orf17
+  - ell1
+  - men
+  - ppp1r68
+  - ell
+  - elongation factor for rna polymerase ii
+  - rna polymerase ii elongation factor ell
+- name: NUP214
+  synonyms:
+  - cain
+  - can
+  - d9s46e
+  - n214
+  - nucleoporin 214kd (cain)
+  - nucleoporin 214kda
+  - nup214
+  - nucleoporin 214
+  - nuclear pore complex protein nup214
+- name: MET
+  synonyms:
+  - dfnb97
+  - hgfr
+  - met
+  - met proto-oncogene
+  - rccp2
+  - met proto-oncogene, receptor tyrosine kinase
+  - hepatocyte growth factor receptor
+  - auts9
+  - mesenchymal-epithelial transition factor
+- name: SPP1
+  synonyms:
+  - bnsp
+  - bone sialoprotein i
+  - bspi
+  - eta-1
+  - opn
+  - osteopontin
+  - spp1
+  - secreted phosphoprotein 1
+- name: RAD54B
+  synonyms:
+  - rad54b
+  - rdh54
+  - rad54 homolog b (s. cerevisiae)
+  - dna repair and recombination protein rad54b
+- name: MMP16
+  synonyms:
+  - c8orf57
+  - chromosome 8 open reading frame 57
+  - dkfzp761d112
+  - matrix metallopeptidase 16 (membrane-inserted)
+  - matrix metalloproteinase 16 (membrane-inserted)
+  - mmp16
+  - mt3-mmp
+  - matrix metallopeptidase 16
+  - matrix metalloproteinase-16
+- name: RET
+  synonyms:
+  - cdhf12
+  - cdhr16
+  - hirschsprung disease 1
+  - hscr1
+  - men2a
+  - men2b
+  - mtc1
+  - multiple endocrine neoplasia and medullary thyroid carcinoma 1
+  - ptc
+  - ret
+  - ret51
+  - ret proto-oncogene
+  - proto-oncogene tyrosine-protein kinase receptor ret
+  - rearranged during transfection
+- name: MUTYH
+  synonyms:
+  - myh
+  - mutyh
+  - muty dna glycosylase
+  - muty homolog
+- name: CD1D
+  synonyms:
+  - cd1d
+  - cd1d antigen
+  - cd1d antigen, d polypeptide
+  - cd1d molecule
+  - antigen-presenting glycoprotein cd1d
+- name: ZFHX4
+  synonyms:
+  - flj20980
+  - zfh4
+  - zfhx4
+  - zinc finger homeodomain 4
+  - zinc finger homeobox 4
+  - zinc finger homeobox protein 4
+- name: STAT4
+  synonyms:
+  - stat4
+  - signal transducer and activator of transcription 4
+- name: IGF2R
+  synonyms:
+  - cd222
+  - ci-m6pr
+  - ci-mpr
+  - cimpr
+  - igf2r
+  - insulin-like growth factor 2 receptor
+  - m6p-r
+  - mpr1
+  - mpr300
+  - mpri
+  - Insulin like growth factor 2
+  - insulin like growth factor 2 receptor
+  - cation-independent mannose-6-phosphate receptor
+- name: IL17B
+  synonyms:
+  - il-17b
+  - il-20
+  - il17b
+  - mgc138900
+  - mgc138901
+  - nirf
+  - zcyto7
+  - interleukin 17b
+  - interleukin-17b
+- name: IL2RA
+  synonyms:
+  - cd25
+  - iddm10
+  - il2r
+  - il2ra
+  - insulin-dependent diabetes mellitus 10
+  - interleukin 2 receptor, alpha
+  - interleukin-2 receptor subunit alpha
+  - interleukin 2 receptor subunit alpha
+  - imd41
+- name: C1S
+  synonyms:
+  - c1s
+  - complement component 1, s subcomponent
+  - complement c1s
+  - complement c1s subcomponent
+- name: TNR
+  synonyms:
+  - tnr
+  - tenascin r
+  - tenascin-r
+- name: RAD51D
+  synonyms:
+  - rad51d
+  - dna repair protein rad51 homolog 4
+  - rad51l3
+  - rad51 paralog d
+  - brovca4
+- name: COL6A6
+  synonyms:
+  - col6a6
+  - collagen, type vi, alpha 6
+  - collagen type vi alpha 6 chain
+  - collagen alpha-6(vi) chain
+- name: TLR5
+  synonyms:
+  - flj10052
+  - mgc126430
+  - mgc126431
+  - sleb1
+  - systemic lupus erythematosus susceptibility 1
+  - til3
+  - tlr5
+  - toll-like receptor 5
+  - toll like receptor 5
+- name: FANCE
+  synonyms:
+  - fance
+  - fae
